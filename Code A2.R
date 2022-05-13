@@ -1,7 +1,3 @@
-# setwd("~/Documents/Erasmus University/IBA Year 3/Data Modelling & Analysis/Assignment 2")
-# df.testing <- read.csv("~/Documents/Erasmus University/IBA Year 3/Data Modelling & Analysis/Assignment 2/testing data set.csv")
-# df.training <- read.csv("~/Documents/Erasmus University/IBA Year 3/Data Modelling & Analysis/Assignment 2/training data set.csv")
-
 df.train <- df.training
 df.test <- df.testing
 
